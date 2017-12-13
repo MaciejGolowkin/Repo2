@@ -16,4 +16,6 @@ public class Laboratorium extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_laboratorium);
     }
+
+
 }
